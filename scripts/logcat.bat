@@ -1,0 +1,1 @@
+adb logcat -s BatteryChargeControl > bcc_log.txt

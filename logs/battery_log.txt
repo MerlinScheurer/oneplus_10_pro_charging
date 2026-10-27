@@ -1,0 +1,6274 @@
+=== session start 2026-10-26 21:01:40 interval 30s ===
+--- 2026-10-26 21:01:40 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 0
+  Battery current : 50
+  ChargerTechnology: 0
+  ChargeFastCharger: false
+  PlugType: 0
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 270
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 0
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d3h45m54s182ms
+  Max charging voltage: 0
+  Charge counter: 370000
+  status: 3
+  health: 2
+  present: true
+  level: 10
+  scale: 100
+  voltage: 3663
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d9h51m17s50ms
+ The last voltage value sent via the battery changed broadcast: 3663
+  temperature: 243
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:02:11 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 0
+  Battery current : 41
+  ChargerTechnology: 0
+  ChargeFastCharger: false
+  PlugType: 0
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 260
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 0
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d3h45m54s182ms
+  Max charging voltage: 0
+  Charge counter: 368000
+  status: 3
+  health: 2
+  present: true
+  level: 10
+  scale: 100
+  voltage: 3679
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d9h51m17s50ms
+ The last voltage value sent via the battery changed broadcast: 3663
+  temperature: 235
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:02:41 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -3498
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 270
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 410000
+  status: 2
+  health: 2
+  present: true
+  level: 11
+  scale: 100
+  voltage: 4214
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d9h52m25s511ms
+ The last voltage value sent via the battery changed broadcast: 4271
+  temperature: 252
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:03:11 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -3487
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 270
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 472000
+  status: 2
+  health: 2
+  present: true
+  level: 13
+  scale: 100
+  voltage: 4243
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d9h52m57s503ms
+ The last voltage value sent via the battery changed broadcast: 4237
+  temperature: 259
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:03:42 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -3441
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 260
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 526000
+  status: 2
+  health: 2
+  present: true
+  level: 14
+  scale: 100
+  voltage: 4250
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d9h53m18s505ms
+ The last voltage value sent via the battery changed broadcast: 4241
+  temperature: 260
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:04:12 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -3008
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 260
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 584000
+  status: 2
+  health: 2
+  present: true
+  level: 16
+  scale: 100
+  voltage: 4210
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d9h53m55s635ms
+ The last voltage value sent via the battery changed broadcast: 4208
+  temperature: 257
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:04:42 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -3017
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 260
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 628000
+  status: 2
+  health: 2
+  present: true
+  level: 17
+  scale: 100
+  voltage: 4219
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d9h54m17s400ms
+ The last voltage value sent via the battery changed broadcast: 4218
+  temperature: 254
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:05:12 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -3021
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 260
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 682000
+  status: 2
+  health: 2
+  present: true
+  level: 19
+  scale: 100
+  voltage: 4229
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d9h54m59s639ms
+ The last voltage value sent via the battery changed broadcast: 4229
+  temperature: 252
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:05:43 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -3011
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 260
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 736000
+  status: 2
+  health: 2
+  present: true
+  level: 20
+  scale: 100
+  voltage: 4238
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d9h55m21s401ms
+ The last voltage value sent via the battery changed broadcast: 4238
+  temperature: 251
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:06:13 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2514
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 250
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 790000
+  status: 2
+  health: 2
+  present: true
+  level: 21
+  scale: 100
+  voltage: 4199
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d9h55m48s534ms
+ The last voltage value sent via the battery changed broadcast: 4247
+  temperature: 250
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:06:44 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2518
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 250
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 828000
+  status: 2
+  health: 2
+  present: true
+  level: 23
+  scale: 100
+  voltage: 4197
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d9h56m30s516ms
+ The last voltage value sent via the battery changed broadcast: 4197
+  temperature: 244
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:07:14 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2519
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 250
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 874000
+  status: 2
+  health: 2
+  present: true
+  level: 24
+  scale: 100
+  voltage: 4206
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d9h56m57s433ms
+ The last voltage value sent via the battery changed broadcast: 4202
+  temperature: 241
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:07:44 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2497
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 250
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 918000
+  status: 2
+  health: 2
+  present: true
+  level: 25
+  scale: 100
+  voltage: 4213
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d9h57m24s534ms
+ The last voltage value sent via the battery changed broadcast: 4210
+  temperature: 239
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:08:15 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2403
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 250
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 956000
+  status: 2
+  health: 2
+  present: true
+  level: 26
+  scale: 100
+  voltage: 4206
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d9h57m50s657ms
+ The last voltage value sent via the battery changed broadcast: 4216
+  temperature: 237
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:08:45 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2520
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 250
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 1000000
+  status: 2
+  health: 2
+  present: true
+  level: 27
+  scale: 100
+  voltage: 4225
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d9h58m17s513ms
+ The last voltage value sent via the battery changed broadcast: 4212
+  temperature: 237
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:09:15 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2516
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 250
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 1046000
+  status: 2
+  health: 2
+  present: true
+  level: 28
+  scale: 100
+  voltage: 4231
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d9h58m43s636ms
+ The last voltage value sent via the battery changed broadcast: 4214
+  temperature: 236
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:09:45 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2515
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 250
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 1084000
+  status: 2
+  health: 2
+  present: true
+  level: 29
+  scale: 100
+  voltage: 4236
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d9h59m10s526ms
+ The last voltage value sent via the battery changed broadcast: 4231
+  temperature: 235
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:10:16 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2518
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 1130000
+  status: 2
+  health: 2
+  present: true
+  level: 31
+  scale: 100
+  voltage: 4244
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h0m4s548ms
+ The last voltage value sent via the battery changed broadcast: 4244
+  temperature: 234
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:10:46 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2519
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 1174000
+  status: 2
+  health: 2
+  present: true
+  level: 32
+  scale: 100
+  voltage: 4248
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h0m30s642ms
+ The last voltage value sent via the battery changed broadcast: 4248
+  temperature: 233
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:11:16 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2520
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 1212000
+  status: 2
+  health: 2
+  present: true
+  level: 33
+  scale: 100
+  voltage: 4255
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h0m57s545ms
+ The last voltage value sent via the battery changed broadcast: 4253
+  temperature: 233
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:11:47 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2530
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 1258000
+  status: 2
+  health: 2
+  present: true
+  level: 34
+  scale: 100
+  voltage: 4259
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h1m23s663ms
+ The last voltage value sent via the battery changed broadcast: 4258
+  temperature: 232
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:12:17 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2509
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 1304000
+  status: 2
+  health: 2
+  present: true
+  level: 35
+  scale: 100
+  voltage: 4263
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h1m50s536ms
+ The last voltage value sent via the battery changed broadcast: 4263
+  temperature: 232
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:12:47 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2517
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 1342000
+  status: 2
+  health: 2
+  present: true
+  level: 36
+  scale: 100
+  voltage: 4268
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h2m17s395ms
+ The last voltage value sent via the battery changed broadcast: 4265
+  temperature: 231
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:13:18 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2508
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 1386000
+  status: 2
+  health: 2
+  present: true
+  level: 37
+  scale: 100
+  voltage: 4277
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h2m44s587ms
+ The last voltage value sent via the battery changed broadcast: 4273
+  temperature: 231
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:13:48 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2523
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 1432000
+  status: 2
+  health: 2
+  present: true
+  level: 39
+  scale: 100
+  voltage: 4283
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h3m37s524ms
+ The last voltage value sent via the battery changed broadcast: 4283
+  temperature: 231
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:14:18 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2530
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d9h52m7s901ms
+  Max charging voltage: 5000000
+  Charge counter: 1478000
+  status: 2
+  health: 2
+  present: true
+  level: 40
+  scale: 100
+  voltage: 4288
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h3m58s513ms
+ The last voltage value sent via the battery changed broadcast: 4284
+  temperature: 231
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:14:49 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 0
+  Battery current : -2519
+  ChargerTechnology: 0
+  ChargeFastCharger: false
+  PlugType: 0
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 0
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h4m38s577ms
+  Max charging voltage: 0
+  Charge counter: 1518000
+  status: 3
+  health: 2
+  present: true
+  level: 41
+  scale: 100
+  voltage: 4289
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h4m38s608ms
+ The last voltage value sent via the battery changed broadcast: 4289
+  temperature: 230
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:15:19 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -1567
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 250
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 1520000
+  status: 2
+  health: 2
+  present: true
+  level: 41
+  scale: 100
+  voltage: 4175
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h4m59s692ms
+ The last voltage value sent via the battery changed broadcast: 3916
+  temperature: 221
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:15:49 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -3037
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 250
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 1570000
+  status: 2
+  health: 2
+  present: true
+  level: 42
+  scale: 100
+  voltage: 4350
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h5m37s961ms
+ The last voltage value sent via the battery changed broadcast: 4350
+  temperature: 233
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:16:20 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2525
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 1620000
+  status: 2
+  health: 2
+  present: true
+  level: 44
+  scale: 100
+  voltage: 4309
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h6m4s64ms
+ The last voltage value sent via the battery changed broadcast: 4310
+  temperature: 235
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:16:50 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2523
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 1660000
+  status: 2
+  health: 2
+  present: true
+  level: 45
+  scale: 100
+  voltage: 4310
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h6m4s64ms
+ The last voltage value sent via the battery changed broadcast: 4310
+  temperature: 233
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:17:20 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2527
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 1704000
+  status: 2
+  health: 2
+  present: true
+  level: 46
+  scale: 100
+  voltage: 4314
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h6m57s77ms
+ The last voltage value sent via the battery changed broadcast: 4316
+  temperature: 232
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:17:51 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2531
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 1750000
+  status: 2
+  health: 2
+  present: true
+  level: 47
+  scale: 100
+  voltage: 4324
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h7m23s946ms
+ The last voltage value sent via the battery changed broadcast: 4320
+  temperature: 232
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:18:21 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2521
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 1798000
+  status: 2
+  health: 2
+  present: true
+  level: 48
+  scale: 100
+  voltage: 4332
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h7m50s842ms
+ The last voltage value sent via the battery changed broadcast: 4325
+  temperature: 231
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:18:51 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2528
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 1836000
+  status: 2
+  health: 2
+  present: true
+  level: 49
+  scale: 100
+  voltage: 4334
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h8m17s927ms
+ The last voltage value sent via the battery changed broadcast: 4316
+  temperature: 231
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:19:22 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2529
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 1882000
+  status: 2
+  health: 2
+  present: true
+  level: 51
+  scale: 100
+  voltage: 4341
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h9m5s77ms
+ The last voltage value sent via the battery changed broadcast: 4344
+  temperature: 230
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:19:52 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2534
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 1926000
+  status: 2
+  health: 2
+  present: true
+  level: 52
+  scale: 100
+  voltage: 4354
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h9m31s936ms
+ The last voltage value sent via the battery changed broadcast: 4351
+  temperature: 230
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:20:22 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2533
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 1966000
+  status: 2
+  health: 2
+  present: true
+  level: 53
+  scale: 100
+  voltage: 4359
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h9m58s858ms
+ The last voltage value sent via the battery changed broadcast: 4357
+  temperature: 229
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:20:53 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2537
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 2010000
+  status: 2
+  health: 2
+  present: true
+  level: 54
+  scale: 100
+  voltage: 4366
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h10m25s954ms
+ The last voltage value sent via the battery changed broadcast: 4366
+  temperature: 229
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:21:23 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2530
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 2056000
+  status: 2
+  health: 2
+  present: true
+  level: 55
+  scale: 100
+  voltage: 4376
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h10m52s52ms
+ The last voltage value sent via the battery changed broadcast: 4370
+  temperature: 229
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:21:53 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2535
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 2096000
+  status: 2
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 4384
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h11m19s10ms
+ The last voltage value sent via the battery changed broadcast: 4378
+  temperature: 229
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:22:24 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2538
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 2142000
+  status: 2
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 4392
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h12m11s952ms
+ The last voltage value sent via the battery changed broadcast: 4392
+  temperature: 228
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:22:54 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2537
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 2188000
+  status: 2
+  health: 2
+  present: true
+  level: 59
+  scale: 100
+  voltage: 4400
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h12m33s962ms
+ The last voltage value sent via the battery changed broadcast: 4395
+  temperature: 228
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:23:24 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2529
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 2226000
+  status: 2
+  health: 2
+  present: true
+  level: 60
+  scale: 100
+  voltage: 4406
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h13m0s58ms
+ The last voltage value sent via the battery changed broadcast: 4403
+  temperature: 228
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:23:55 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2537
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 2272000
+  status: 2
+  health: 2
+  present: true
+  level: 61
+  scale: 100
+  voltage: 4413
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h13m26s954ms
+ The last voltage value sent via the battery changed broadcast: 4410
+  temperature: 228
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:24:25 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2541
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 2318000
+  status: 2
+  health: 2
+  present: true
+  level: 62
+  scale: 100
+  voltage: 4427
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h13m53s68ms
+ The last voltage value sent via the battery changed broadcast: 4420
+  temperature: 228
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:24:55 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2543
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 2358000
+  status: 2
+  health: 2
+  present: true
+  level: 64
+  scale: 100
+  voltage: 4434
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h14m41s969ms
+ The last voltage value sent via the battery changed broadcast: 4434
+  temperature: 228
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:25:26 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2530
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 2404000
+  status: 2
+  health: 2
+  present: true
+  level: 65
+  scale: 100
+  voltage: 4442
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h15m8s64ms
+ The last voltage value sent via the battery changed broadcast: 4437
+  temperature: 228
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:25:56 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2534
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 2450000
+  status: 2
+  health: 2
+  present: true
+  level: 66
+  scale: 100
+  voltage: 4450
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h15m34s978ms
+ The last voltage value sent via the battery changed broadcast: 4448
+  temperature: 228
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:26:26 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -1520
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h5m0s8ms
+  Max charging voltage: 5000000
+  Charge counter: 2484000
+  status: 2
+  health: 2
+  present: true
+  level: 67
+  scale: 100
+  voltage: 4342
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h16m1s62ms
+ The last voltage value sent via the battery changed broadcast: 4398
+  temperature: 226
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:26:56 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -2319
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 250
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2508000
+  status: 2
+  health: 2
+  present: true
+  level: 68
+  scale: 100
+  voltage: 4429
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h16m46s864ms
+ The last voltage value sent via the battery changed broadcast: 4429
+  temperature: 221
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:27:27 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -1526
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2550000
+  status: 2
+  health: 2
+  present: true
+  level: 69
+  scale: 100
+  voltage: 4357
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h17m12s993ms
+ The last voltage value sent via the battery changed broadcast: 4411
+  temperature: 227
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:27:57 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -1011
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2566000
+  status: 2
+  health: 2
+  present: true
+  level: 69
+  scale: 100
+  voltage: 4277
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h17m33s984ms
+ The last voltage value sent via the battery changed broadcast: 4285
+  temperature: 221
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:28:27 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -1005
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2584000
+  status: 2
+  health: 2
+  present: true
+  level: 70
+  scale: 100
+  voltage: 4276
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h18m3s950ms
+ The last voltage value sent via the battery changed broadcast: 4276
+  temperature: 215
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:28:57 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -978
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 230
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2602000
+  status: 2
+  health: 2
+  present: true
+  level: 70
+  scale: 100
+  voltage: 4277
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h18m3s950ms
+ The last voltage value sent via the battery changed broadcast: 4276
+  temperature: 211
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:29:28 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -1000
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 230
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2620000
+  status: 2
+  health: 2
+  present: true
+  level: 71
+  scale: 100
+  voltage: 4286
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h19m7s937ms
+ The last voltage value sent via the battery changed broadcast: 4281
+  temperature: 208
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:29:58 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -1005
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 230
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2636000
+  status: 2
+  health: 2
+  present: true
+  level: 71
+  scale: 100
+  voltage: 4291
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h19m7s937ms
+ The last voltage value sent via the battery changed broadcast: 4281
+  temperature: 206
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:30:28 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -997
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 230
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2654000
+  status: 2
+  health: 2
+  present: true
+  level: 72
+  scale: 100
+  voltage: 4297
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h20m17s72ms
+ The last voltage value sent via the battery changed broadcast: 4297
+  temperature: 203
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:30:59 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -990
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2672000
+  status: 2
+  health: 2
+  present: true
+  level: 72
+  scale: 100
+  voltage: 4300
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h20m17s72ms
+ The last voltage value sent via the battery changed broadcast: 4297
+  temperature: 200
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:31:29 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -991
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2686000
+  status: 2
+  health: 2
+  present: true
+  level: 72
+  scale: 100
+  voltage: 4307
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h20m17s72ms
+ The last voltage value sent via the battery changed broadcast: 4297
+  temperature: 199
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:31:59 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -640
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 230
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2702000
+  status: 2
+  health: 2
+  present: true
+  level: 73
+  scale: 100
+  voltage: 4254
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h21m47s911ms
+ The last voltage value sent via the battery changed broadcast: 4254
+  temperature: 198
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:32:30 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -965
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 230
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2716000
+  status: 2
+  health: 2
+  present: true
+  level: 73
+  scale: 100
+  voltage: 4307
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h22m14s790ms
+ The last voltage value sent via the battery changed broadcast: 4306
+  temperature: 202
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:33:00 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -991
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 230
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2732000
+  status: 2
+  health: 2
+  present: true
+  level: 74
+  scale: 100
+  voltage: 4316
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h22m41s938ms
+ The last voltage value sent via the battery changed broadcast: 4312
+  temperature: 202
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:33:30 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -989
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 230
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2750000
+  status: 2
+  health: 2
+  present: true
+  level: 74
+  scale: 100
+  voltage: 4320
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h22m41s938ms
+ The last voltage value sent via the battery changed broadcast: 4312
+  temperature: 200
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:34:01 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -979
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 230
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2768000
+  status: 2
+  health: 2
+  present: true
+  level: 75
+  scale: 100
+  voltage: 4324
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h23m45s968ms
+ The last voltage value sent via the battery changed broadcast: 4325
+  temperature: 198
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:34:31 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -1007
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2784000
+  status: 2
+  health: 2
+  present: true
+  level: 75
+  scale: 100
+  voltage: 4333
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h23m45s968ms
+ The last voltage value sent via the battery changed broadcast: 4325
+  temperature: 196
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:35:01 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -999
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2802000
+  status: 2
+  health: 2
+  present: true
+  level: 76
+  scale: 100
+  voltage: 4339
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h24m49s934ms
+ The last voltage value sent via the battery changed broadcast: 4339
+  temperature: 194
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:35:32 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -976
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2820000
+  status: 2
+  health: 2
+  present: true
+  level: 76
+  scale: 100
+  voltage: 4342
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h24m49s934ms
+ The last voltage value sent via the battery changed broadcast: 4339
+  temperature: 192
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:36:02 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -975
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2834000
+  status: 2
+  health: 2
+  present: true
+  level: 76
+  scale: 100
+  voltage: 4347
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h24m49s934ms
+ The last voltage value sent via the battery changed broadcast: 4339
+  temperature: 191
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:36:32 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -995
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2852000
+  status: 2
+  health: 2
+  present: true
+  level: 77
+  scale: 100
+  voltage: 4354
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h25m58s794ms
+ The last voltage value sent via the battery changed broadcast: 4351
+  temperature: 190
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:37:03 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -988
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2870000
+  status: 2
+  health: 2
+  present: true
+  level: 77
+  scale: 100
+  voltage: 4360
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h25m58s794ms
+ The last voltage value sent via the battery changed broadcast: 4351
+  temperature: 188
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:37:33 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -991
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2888000
+  status: 2
+  health: 2
+  present: true
+  level: 78
+  scale: 100
+  voltage: 4366
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h27m2s807ms
+ The last voltage value sent via the battery changed broadcast: 4361
+  temperature: 187
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:38:03 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -988
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2902000
+  status: 2
+  health: 2
+  present: true
+  level: 78
+  scale: 100
+  voltage: 4370
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h27m2s807ms
+ The last voltage value sent via the battery changed broadcast: 4361
+  temperature: 186
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:38:33 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -985
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2920000
+  status: 2
+  health: 2
+  present: true
+  level: 79
+  scale: 100
+  voltage: 4376
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h28m11s952ms
+ The last voltage value sent via the battery changed broadcast: 4374
+  temperature: 184
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:39:04 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -980
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2938000
+  status: 2
+  health: 2
+  present: true
+  level: 79
+  scale: 100
+  voltage: 4381
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h28m11s952ms
+ The last voltage value sent via the battery changed broadcast: 4374
+  temperature: 183
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:39:34 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -982
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2954000
+  status: 2
+  health: 2
+  present: true
+  level: 80
+  scale: 100
+  voltage: 4387
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h29m15s931ms
+ The last voltage value sent via the battery changed broadcast: 4386
+  temperature: 183
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:40:04 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -987
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2970000
+  status: 2
+  health: 2
+  present: true
+  level: 80
+  scale: 100
+  voltage: 4393
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h29m15s931ms
+ The last voltage value sent via the battery changed broadcast: 4386
+  temperature: 182
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:40:35 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -972
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 2990000
+  status: 2
+  health: 2
+  present: true
+  level: 81
+  scale: 100
+  voltage: 4396
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h30m25s32ms
+ The last voltage value sent via the battery changed broadcast: 4396
+  temperature: 181
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:41:05 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -978
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3004000
+  status: 2
+  health: 2
+  present: true
+  level: 81
+  scale: 100
+  voltage: 4401
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h30m25s32ms
+ The last voltage value sent via the battery changed broadcast: 4396
+  temperature: 180
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:41:35 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -997
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3022000
+  status: 2
+  health: 2
+  present: true
+  level: 81
+  scale: 100
+  voltage: 4410
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h30m25s32ms
+ The last voltage value sent via the battery changed broadcast: 4396
+  temperature: 179
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:42:06 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -560
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3038000
+  status: 2
+  health: 2
+  present: true
+  level: 82
+  scale: 100
+  voltage: 4337
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h31m50s828ms
+ The last voltage value sent via the battery changed broadcast: 4306
+  temperature: 178
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:42:36 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -964
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3050000
+  status: 2
+  health: 2
+  present: true
+  level: 82
+  scale: 100
+  voltage: 4409
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h32m12s55ms
+ The last voltage value sent via the battery changed broadcast: 4405
+  temperature: 182
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:43:06 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -953
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3068000
+  status: 2
+  health: 2
+  present: true
+  level: 83
+  scale: 100
+  voltage: 4414
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h32m49s929ms
+ The last voltage value sent via the battery changed broadcast: 4414
+  temperature: 183
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:43:37 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -943
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3086000
+  status: 2
+  health: 2
+  present: true
+  level: 83
+  scale: 100
+  voltage: 4417
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h32m49s929ms
+ The last voltage value sent via the battery changed broadcast: 4414
+  temperature: 183
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:44:07 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -960
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3100000
+  status: 2
+  health: 2
+  present: true
+  level: 84
+  scale: 100
+  voltage: 4424
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h33m53s925ms
+ The last voltage value sent via the battery changed broadcast: 4424
+  temperature: 182
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:44:37 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -982
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3118000
+  status: 2
+  health: 2
+  present: true
+  level: 84
+  scale: 100
+  voltage: 4429
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h33m53s925ms
+ The last voltage value sent via the battery changed broadcast: 4424
+  temperature: 182
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:45:08 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -975
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3136000
+  status: 2
+  health: 2
+  present: true
+  level: 84
+  scale: 100
+  voltage: 4435
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h33m53s925ms
+ The last voltage value sent via the battery changed broadcast: 4424
+  temperature: 181
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:45:38 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -948
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3150000
+  status: 2
+  health: 2
+  present: true
+  level: 85
+  scale: 100
+  voltage: 4435
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h35m2s797ms
+ The last voltage value sent via the battery changed broadcast: 4430
+  temperature: 180
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:46:08 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -947
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3168000
+  status: 2
+  health: 2
+  present: true
+  level: 85
+  scale: 100
+  voltage: 4440
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h35m2s797ms
+ The last voltage value sent via the battery changed broadcast: 4430
+  temperature: 179
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:46:39 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -934
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3186000
+  status: 2
+  health: 2
+  present: true
+  level: 86
+  scale: 100
+  voltage: 4443
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h36m11s922ms
+ The last voltage value sent via the battery changed broadcast: 4450
+  temperature: 179
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:47:09 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -946
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3202000
+  status: 2
+  health: 2
+  present: true
+  level: 86
+  scale: 100
+  voltage: 4448
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h36m11s922ms
+ The last voltage value sent via the battery changed broadcast: 4450
+  temperature: 179
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:47:40 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -939
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3218000
+  status: 2
+  health: 2
+  present: true
+  level: 87
+  scale: 100
+  voltage: 4460
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h37m15s929ms
+ The last voltage value sent via the battery changed broadcast: 4459
+  temperature: 179
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:48:10 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -844
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3232000
+  status: 2
+  health: 2
+  present: true
+  level: 87
+  scale: 100
+  voltage: 4438
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h37m47s921ms
+ The last voltage value sent via the battery changed broadcast: 4387
+  temperature: 178
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:48:41 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -955
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3250000
+  status: 2
+  health: 2
+  present: true
+  level: 88
+  scale: 100
+  voltage: 4462
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h38m9s938ms
+ The last voltage value sent via the battery changed broadcast: 4462
+  temperature: 182
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:49:11 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -875
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3264000
+  status: 2
+  health: 2
+  present: true
+  level: 88
+  scale: 100
+  voltage: 4456
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h38m9s938ms
+ The last voltage value sent via the battery changed broadcast: 4462
+  temperature: 181
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:49:42 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -960
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3282000
+  status: 2
+  health: 2
+  present: true
+  level: 88
+  scale: 100
+  voltage: 4479
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h38m9s938ms
+ The last voltage value sent via the battery changed broadcast: 4462
+  temperature: 181
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:50:12 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -972
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3300000
+  status: 2
+  health: 2
+  present: true
+  level: 89
+  scale: 100
+  voltage: 4480
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h39m40s57ms
+ The last voltage value sent via the battery changed broadcast: 4478
+  temperature: 180
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:50:42 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -970
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3318000
+  status: 2
+  health: 2
+  present: true
+  level: 89
+  scale: 100
+  voltage: 4485
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h39m40s57ms
+ The last voltage value sent via the battery changed broadcast: 4478
+  temperature: 179
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:51:13 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 10000
+  Battery current : -864
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h16m30s656ms
+  Max charging voltage: 5000000
+  Charge counter: 3332000
+  status: 2
+  health: 2
+  present: true
+  level: 90
+  scale: 100
+  voltage: 4472
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h40m44s42ms
+ The last voltage value sent via the battery changed broadcast: 4490
+  temperature: 179
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:51:43 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5200
+  Battery current : 0
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3342000
+  status: 2
+  health: 2
+  present: true
+  level: 90
+  scale: 100
+  voltage: 4288
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h41m23s996ms
+ The last voltage value sent via the battery changed broadcast: 4293
+  temperature: 178
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:52:13 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5051
+  Battery current : -530
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3348000
+  status: 2
+  health: 2
+  present: true
+  level: 90
+  scale: 100
+  voltage: 4405
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h41m44s992ms
+ The last voltage value sent via the battery changed broadcast: 4402
+  temperature: 177
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:52:44 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5103
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3356000
+  status: 2
+  health: 2
+  present: true
+  level: 90
+  scale: 100
+  voltage: 4362
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h41m44s992ms
+ The last voltage value sent via the battery changed broadcast: 4402
+  temperature: 177
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:53:14 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5117
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3362000
+  status: 2
+  health: 2
+  present: true
+  level: 91
+  scale: 100
+  voltage: 4361
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h42m41s53ms
+ The last voltage value sent via the battery changed broadcast: 4362
+  temperature: 176
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:53:44 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5110
+  Battery current : -324
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3368000
+  status: 2
+  health: 2
+  present: true
+  level: 91
+  scale: 100
+  voltage: 4362
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h42m41s53ms
+ The last voltage value sent via the battery changed broadcast: 4362
+  temperature: 176
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:54:15 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5098
+  Battery current : -326
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3374000
+  status: 2
+  health: 2
+  present: true
+  level: 91
+  scale: 100
+  voltage: 4363
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h42m41s53ms
+ The last voltage value sent via the battery changed broadcast: 4362
+  temperature: 175
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:54:45 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5101
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3380000
+  status: 2
+  health: 2
+  present: true
+  level: 91
+  scale: 100
+  voltage: 4364
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h42m41s53ms
+ The last voltage value sent via the battery changed broadcast: 4362
+  temperature: 175
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:55:16 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5098
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3384000
+  status: 2
+  health: 2
+  present: true
+  level: 91
+  scale: 100
+  voltage: 4366
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h42m41s53ms
+ The last voltage value sent via the battery changed broadcast: 4362
+  temperature: 174
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:55:46 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5103
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3390000
+  status: 2
+  health: 2
+  present: true
+  level: 91
+  scale: 100
+  voltage: 4367
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h42m41s53ms
+ The last voltage value sent via the battery changed broadcast: 4362
+  temperature: 174
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:56:16 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5105
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3396000
+  status: 2
+  health: 2
+  present: true
+  level: 91
+  scale: 100
+  voltage: 4368
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h42m41s53ms
+ The last voltage value sent via the battery changed broadcast: 4362
+  temperature: 174
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:56:47 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5101
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3402000
+  status: 2
+  health: 2
+  present: true
+  level: 92
+  scale: 100
+  voltage: 4370
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h46m9s940ms
+ The last voltage value sent via the battery changed broadcast: 4369
+  temperature: 173
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:57:17 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5104
+  Battery current : -326
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3408000
+  status: 2
+  health: 2
+  present: true
+  level: 92
+  scale: 100
+  voltage: 4372
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h46m9s940ms
+ The last voltage value sent via the battery changed broadcast: 4369
+  temperature: 173
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:57:48 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5091
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3412000
+  status: 2
+  health: 2
+  present: true
+  level: 92
+  scale: 100
+  voltage: 4373
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h46m9s940ms
+ The last voltage value sent via the battery changed broadcast: 4369
+  temperature: 173
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:58:18 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5096
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3418000
+  status: 2
+  health: 2
+  present: true
+  level: 92
+  scale: 100
+  voltage: 4375
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h46m9s940ms
+ The last voltage value sent via the battery changed broadcast: 4369
+  temperature: 172
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:58:49 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5109
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3424000
+  status: 2
+  health: 2
+  present: true
+  level: 92
+  scale: 100
+  voltage: 4376
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h46m9s940ms
+ The last voltage value sent via the battery changed broadcast: 4369
+  temperature: 172
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:59:19 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5106
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3430000
+  status: 2
+  health: 2
+  present: true
+  level: 92
+  scale: 100
+  voltage: 4377
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h46m9s940ms
+ The last voltage value sent via the battery changed broadcast: 4369
+  temperature: 172
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 21:59:49 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5107
+  Battery current : -326
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3436000
+  status: 2
+  health: 2
+  present: true
+  level: 93
+  scale: 100
+  voltage: 4379
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h49m21s948ms
+ The last voltage value sent via the battery changed broadcast: 4378
+  temperature: 172
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:00:20 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5103
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3442000
+  status: 2
+  health: 2
+  present: true
+  level: 93
+  scale: 100
+  voltage: 4380
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h49m21s948ms
+ The last voltage value sent via the battery changed broadcast: 4378
+  temperature: 172
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:00:50 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5100
+  Battery current : -326
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3448000
+  status: 2
+  health: 2
+  present: true
+  level: 93
+  scale: 100
+  voltage: 4382
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h49m21s948ms
+ The last voltage value sent via the battery changed broadcast: 4378
+  temperature: 171
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:01:21 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5107
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3452000
+  status: 2
+  health: 2
+  present: true
+  level: 93
+  scale: 100
+  voltage: 4384
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h49m21s948ms
+ The last voltage value sent via the battery changed broadcast: 4378
+  temperature: 171
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:01:51 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5104
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3458000
+  status: 2
+  health: 2
+  present: true
+  level: 93
+  scale: 100
+  voltage: 4385
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h49m21s948ms
+ The last voltage value sent via the battery changed broadcast: 4378
+  temperature: 171
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:02:21 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5041
+  Battery current : -326
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3464000
+  status: 2
+  health: 2
+  present: true
+  level: 93
+  scale: 100
+  voltage: 4387
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h49m21s948ms
+ The last voltage value sent via the battery changed broadcast: 4378
+  temperature: 171
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:02:52 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5086
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3468000
+  status: 2
+  health: 2
+  present: true
+  level: 93
+  scale: 100
+  voltage: 4388
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h49m21s948ms
+ The last voltage value sent via the battery changed broadcast: 4378
+  temperature: 172
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:03:22 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5093
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3474000
+  status: 2
+  health: 2
+  present: true
+  level: 94
+  scale: 100
+  voltage: 4390
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h52m49s48ms
+ The last voltage value sent via the battery changed broadcast: 4388
+  temperature: 173
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:03:52 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5081
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3480000
+  status: 2
+  health: 2
+  present: true
+  level: 94
+  scale: 100
+  voltage: 4391
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h52m49s48ms
+ The last voltage value sent via the battery changed broadcast: 4388
+  temperature: 172
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:04:23 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5010
+  Battery current : -323
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3486000
+  status: 2
+  health: 2
+  present: true
+  level: 94
+  scale: 100
+  voltage: 4390
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h52m49s48ms
+ The last voltage value sent via the battery changed broadcast: 4388
+  temperature: 175
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:04:53 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5075
+  Battery current : -326
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 230
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3492000
+  status: 2
+  health: 2
+  present: true
+  level: 94
+  scale: 100
+  voltage: 4392
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h54m41s939ms
+ The last voltage value sent via the battery changed broadcast: 4392
+  temperature: 182
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:05:24 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5068
+  Battery current : -326
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 230
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3498000
+  status: 2
+  health: 2
+  present: true
+  level: 94
+  scale: 100
+  voltage: 4392
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h54m41s939ms
+ The last voltage value sent via the battery changed broadcast: 4392
+  temperature: 183
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:05:54 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5095
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 230
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3502000
+  status: 2
+  health: 2
+  present: true
+  level: 94
+  scale: 100
+  voltage: 4393
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h54m41s939ms
+ The last voltage value sent via the battery changed broadcast: 4392
+  temperature: 183
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:06:25 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5044
+  Battery current : -326
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3508000
+  status: 2
+  health: 2
+  present: true
+  level: 95
+  scale: 100
+  voltage: 4394
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h56m12s44ms
+ The last voltage value sent via the battery changed broadcast: 4394
+  temperature: 185
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:06:55 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5018
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 240
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3514000
+  status: 2
+  health: 2
+  present: true
+  level: 95
+  scale: 100
+  voltage: 4395
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h56m12s44ms
+ The last voltage value sent via the battery changed broadcast: 4394
+  temperature: 186
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:07:25 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5108
+  Battery current : -326
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 230
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3520000
+  status: 2
+  health: 2
+  present: true
+  level: 95
+  scale: 100
+  voltage: 4395
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h56m12s44ms
+ The last voltage value sent via the battery changed broadcast: 4394
+  temperature: 188
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:07:56 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5112
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 230
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3526000
+  status: 2
+  health: 2
+  present: true
+  level: 95
+  scale: 100
+  voltage: 4396
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h56m12s44ms
+ The last voltage value sent via the battery changed broadcast: 4394
+  temperature: 187
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:08:26 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5104
+  Battery current : -326
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3532000
+  status: 2
+  health: 2
+  present: true
+  level: 95
+  scale: 100
+  voltage: 4398
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h56m12s44ms
+ The last voltage value sent via the battery changed broadcast: 4394
+  temperature: 183
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:08:57 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5100
+  Battery current : -325
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3538000
+  status: 2
+  health: 2
+  present: true
+  level: 95
+  scale: 100
+  voltage: 4400
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h56m12s44ms
+ The last voltage value sent via the battery changed broadcast: 4394
+  temperature: 182
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:09:27 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5100
+  Battery current : -304
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3542000
+  status: 2
+  health: 2
+  present: true
+  level: 95
+  scale: 100
+  voltage: 4397
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h56m12s44ms
+ The last voltage value sent via the battery changed broadcast: 4394
+  temperature: 181
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:09:57 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5119
+  Battery current : -297
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3548000
+  status: 2
+  health: 2
+  present: true
+  level: 96
+  scale: 100
+  voltage: 4396
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h59m29s961ms
+ The last voltage value sent via the battery changed broadcast: 4396
+  temperature: 179
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:10:28 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5121
+  Battery current : -290
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3552000
+  status: 2
+  health: 2
+  present: true
+  level: 96
+  scale: 100
+  voltage: 4396
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h59m29s961ms
+ The last voltage value sent via the battery changed broadcast: 4396
+  temperature: 177
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:10:58 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5107
+  Battery current : -284
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3556000
+  status: 2
+  health: 2
+  present: true
+  level: 96
+  scale: 100
+  voltage: 4396
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h59m29s961ms
+ The last voltage value sent via the battery changed broadcast: 4396
+  temperature: 176
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:11:28 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5122
+  Battery current : -279
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3362000
+  status: 2
+  health: 2
+  present: true
+  level: 98
+  scale: 100
+  voltage: 4396
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h59m29s961ms
+ The last voltage value sent via the battery changed broadcast: 4396
+  temperature: 175
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:11:59 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5122
+  Battery current : -271
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3362000
+  status: 2
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4396
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h59m29s961ms
+ The last voltage value sent via the battery changed broadcast: 4396
+  temperature: 174
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:12:29 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5113
+  Battery current : -266
+  ChargerTechnology: 3
+  ChargeFastCharger: true
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3362000
+  status: 2
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4396
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d10h59m29s961ms
+ The last voltage value sent via the battery changed broadcast: 4396
+  temperature: 173
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:12:59 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5117
+  Battery current : -262
+  ChargerTechnology: 3
+  ChargeFastCharger: false
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3362000
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4397
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d11h2m36s58ms
+ The last voltage value sent via the battery changed broadcast: 4397
+  temperature: 172
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:13:30 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5115
+  Battery current : -257
+  ChargerTechnology: 3
+  ChargeFastCharger: false
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3362000
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4396
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d11h2m36s58ms
+ The last voltage value sent via the battery changed broadcast: 4397
+  temperature: 172
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:14:00 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5123
+  Battery current : -251
+  ChargerTechnology: 3
+  ChargeFastCharger: false
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3362000
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4396
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d11h2m36s58ms
+ The last voltage value sent via the battery changed broadcast: 4397
+  temperature: 171
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:14:30 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5104
+  Battery current : -247
+  ChargerTechnology: 3
+  ChargeFastCharger: false
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3362000
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4396
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d11h2m36s58ms
+ The last voltage value sent via the battery changed broadcast: 4397
+  temperature: 170
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:15:01 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5122
+  Battery current : -241
+  ChargerTechnology: 3
+  ChargeFastCharger: false
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3362000
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4396
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d11h2m36s58ms
+ The last voltage value sent via the battery changed broadcast: 4397
+  temperature: 170
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:15:31 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5122
+  Battery current : -238
+  ChargerTechnology: 3
+  ChargeFastCharger: false
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 200
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3362000
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4396
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d11h2m36s58ms
+ The last voltage value sent via the battery changed broadcast: 4397
+  temperature: 169
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:16:02 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 5118
+  Battery current : -235
+  ChargerTechnology: 3
+  ChargeFastCharger: false
+  PlugType: 1
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 200
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 2000000
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d10h41m23s996ms
+  Max charging voltage: 5000000
+  Charge counter: 3362000
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4397
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d11h2m36s58ms
+ The last voltage value sent via the battery changed broadcast: 4397
+  temperature: 167
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:16:32 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 0
+  Battery current : -231
+  ChargerTechnology: 0
+  ChargeFastCharger: false
+  PlugType: 0
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 0
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d11h6m7s244ms
+  Max charging voltage: 0
+  Charge counter: 3362000
+  status: 3
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4397
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d11h6m7s373ms
+ The last voltage value sent via the battery changed broadcast: 4397
+  temperature: 167
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:17:03 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 0
+  Battery current : 37
+  ChargerTechnology: 0
+  ChargeFastCharger: false
+  PlugType: 0
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 0
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d11h6m7s244ms
+  Max charging voltage: 0
+  Charge counter: 3370000
+  status: 3
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4302
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d11h6m40s477ms
+ The last voltage value sent via the battery changed broadcast: 4302
+  temperature: 175
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:17:33 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 0
+  Battery current : 131
+  ChargerTechnology: 0
+  ChargeFastCharger: false
+  PlugType: 0
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 210
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 0
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d11h6m7s244ms
+  Max charging voltage: 0
+  Charge counter: 3370000
+  status: 3
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4280
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d11h6m40s477ms
+ The last voltage value sent via the battery changed broadcast: 4302
+  temperature: 183
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:18:03 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 0
+  Battery current : 486
+  ChargerTechnology: 0
+  ChargeFastCharger: false
+  PlugType: 0
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 220
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 0
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d11h6m7s244ms
+  Max charging voltage: 0
+  Charge counter: 3450000
+  status: 3
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4234
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d11h7m46s725ms
+ The last voltage value sent via the battery changed broadcast: 4234
+  temperature: 196
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+
+--- 2026-10-26 22:18:34 ---
+bcc logcat (latest):
+Current OPLUS Battery Service state:
+  Charger voltage : 0
+  Battery current : 134
+  ChargerTechnology: 0
+  ChargeFastCharger: false
+  PlugType: 0
+  UpdatesStopped: false
+  UsbHwStatus: 0
+  BatteryHwStatus: 0
+  HwStatusIsSet: 1
+  BatteryIcStatus: 0
+  IcStatusIsSet: 1
+
+  mUsbStatus: 0
+  PhoneTemp: 230
+  ThermalFeatureOn: true
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  Dock powered: false
+  Max charging current: 0
+ Time when the latest updated value of the Max charging current was sent via battery changed broadcast: +9d11h6m7s244ms
+  Max charging voltage: 0
+  Charge counter: 3450000
+  status: 3
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4271
+ Time when the latest updated value of the voltage was sent via battery changed broadcast: +9d11h7m46s725ms
+ The last voltage value sent via the battery changed broadcast: 4234
+  temperature: 204
+  technology: 7
+  Charging state: 0
+  Charging policy: 0
+  Capacity level: 3
+

@@ -1,0 +1,15 @@
+entity_id,state,last_changed
+sensor.network_energy_power_2,1,2026-10-26T19:30:00.000Z
+sensor.network_energy_power_2,0,2026-10-26T19:41:59.986Z
+sensor.network_energy_power_2,1,2026-10-26T19:47:00.008Z
+sensor.network_energy_power_2,0,2026-10-26T20:02:00.022Z
+sensor.network_energy_power_2,25,2026-10-26T20:07:00.004Z
+sensor.network_energy_power_2,26,2026-10-26T20:17:00.041Z
+sensor.network_energy_power_2,29,2026-10-26T20:27:00.088Z
+sensor.network_energy_power_2,10,2026-10-26T20:32:00.088Z
+sensor.network_energy_power_2,11,2026-10-26T20:37:00.117Z
+sensor.network_energy_power_2,10,2026-10-26T20:42:00.098Z
+sensor.network_energy_power_2,7,2026-10-26T20:52:00.140Z
+sensor.network_energy_power_2,5,2026-10-26T20:57:00.117Z
+sensor.network_energy_power_2,8,2026-10-26T21:07:00.140Z
+sensor.network_energy_power_2,4,2026-10-26T21:12:00.161Z
