@@ -1,6 +1,12 @@
 # OnePlus 10 Pro (NE2213) charging test
 
-Date: 26 October 2026. The phone was on Android 16 (V16.0.3, Software Version NE2213_16.0.3.530, Model NE2213).
+Date: 26 October 2026.
+
+The phone was on Android 16
+
+- V16.0.3
+- Software Version NE2213_16.0.3.530
+- Model NE2213EEA
 
 ## The short version
 
